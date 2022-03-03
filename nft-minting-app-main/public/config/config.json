@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x532B6E707d3F32D84D590C0F3F59693DA2ACC03F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x532b6e707d3f32d84d590c0f3f59693da2acc03f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Weird DogsPunk",
+  "SYMBOL": "WDPNFT",
+  "MAX_SUPPLY": 3200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/weird-dogspunk",
+  "SHOW_BACKGROUND": true
+}
